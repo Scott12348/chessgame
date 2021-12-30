@@ -1,0 +1,32 @@
+C:\Users\admin\source\repos\[Sharecode.vn] Source code game co vua bang C# full code\[Sharecode.vn] Source code game co vua bang C# full code\Chess Usercontrol\bin\Debug\Chess Usercontrol.dll
+C:\Users\admin\source\repos\[Sharecode.vn] Source code game co vua bang C# full code\[Sharecode.vn] Source code game co vua bang C# full code\Chess Usercontrol\bin\Debug\Chess Usercontrol.pdb
+C:\Users\admin\source\repos\[Sharecode.vn] Source code game co vua bang C# full code\[Sharecode.vn] Source code game co vua bang C# full code\Chess Usercontrol\obj\Debug\Chess Library.csproj.AssemblyReference.cache
+C:\Users\admin\source\repos\[Sharecode.vn] Source code game co vua bang C# full code\[Sharecode.vn] Source code game co vua bang C# full code\Chess Usercontrol\obj\Debug\Chess_Usercontrol.frmMessageBox.resources
+C:\Users\admin\source\repos\[Sharecode.vn] Source code game co vua bang C# full code\[Sharecode.vn] Source code game co vua bang C# full code\Chess Usercontrol\obj\Debug\Chess_Usercontrol.frmPromotion.resources
+C:\Users\admin\source\repos\[Sharecode.vn] Source code game co vua bang C# full code\[Sharecode.vn] Source code game co vua bang C# full code\Chess Usercontrol\obj\Debug\Chess_Usercontrol.Properties.Resources.resources
+C:\Users\admin\source\repos\[Sharecode.vn] Source code game co vua bang C# full code\[Sharecode.vn] Source code game co vua bang C# full code\Chess Usercontrol\obj\Debug\Chess_Usercontrol.UcCapturedPieces.resources
+C:\Users\admin\source\repos\[Sharecode.vn] Source code game co vua bang C# full code\[Sharecode.vn] Source code game co vua bang C# full code\Chess Usercontrol\obj\Debug\Chess_Usercontrol.UcChessBoard.resources
+C:\Users\admin\source\repos\[Sharecode.vn] Source code game co vua bang C# full code\[Sharecode.vn] Source code game co vua bang C# full code\Chess Usercontrol\obj\Debug\Chess_Usercontrol.UcChessCell.resources
+C:\Users\admin\source\repos\[Sharecode.vn] Source code game co vua bang C# full code\[Sharecode.vn] Source code game co vua bang C# full code\Chess Usercontrol\obj\Debug\Chess_Usercontrol.UcChessPiece.resources
+C:\Users\admin\source\repos\[Sharecode.vn] Source code game co vua bang C# full code\[Sharecode.vn] Source code game co vua bang C# full code\Chess Usercontrol\obj\Debug\Chess_Usercontrol.UcMovesHistory.resources
+C:\Users\admin\source\repos\[Sharecode.vn] Source code game co vua bang C# full code\[Sharecode.vn] Source code game co vua bang C# full code\Chess Usercontrol\obj\Debug\DigitalClock.UcCountDownTimer.resources
+C:\Users\admin\source\repos\[Sharecode.vn] Source code game co vua bang C# full code\[Sharecode.vn] Source code game co vua bang C# full code\Chess Usercontrol\obj\Debug\Chess Library.csproj.GenerateResource.cache
+C:\Users\admin\source\repos\[Sharecode.vn] Source code game co vua bang C# full code\[Sharecode.vn] Source code game co vua bang C# full code\Chess Usercontrol\obj\Debug\Chess Library.csproj.CoreCompileInputs.cache
+C:\Users\admin\source\repos\[Sharecode.vn] Source code game co vua bang C# full code\[Sharecode.vn] Source code game co vua bang C# full code\Chess Usercontrol\obj\Debug\Chess Usercontrol.dll
+C:\Users\admin\source\repos\[Sharecode.vn] Source code game co vua bang C# full code\[Sharecode.vn] Source code game co vua bang C# full code\Chess Usercontrol\obj\Debug\Chess Usercontrol.pdb
+C:\Users\admin\OneDrive\Desktop\Nhóm 5\Source Code\ĐỒ ÁN\Chess Usercontrol\bin\Debug\Chess Usercontrol.dll
+C:\Users\admin\OneDrive\Desktop\Nhóm 5\Source Code\ĐỒ ÁN\Chess Usercontrol\bin\Debug\Chess Usercontrol.pdb
+C:\Users\admin\OneDrive\Desktop\Nhóm 5\Source Code\ĐỒ ÁN\Chess Usercontrol\obj\Debug\Chess Library.csproj.AssemblyReference.cache
+C:\Users\admin\OneDrive\Desktop\Nhóm 5\Source Code\ĐỒ ÁN\Chess Usercontrol\obj\Debug\Chess_Usercontrol.frmMessageBox.resources
+C:\Users\admin\OneDrive\Desktop\Nhóm 5\Source Code\ĐỒ ÁN\Chess Usercontrol\obj\Debug\Chess_Usercontrol.frmPromotion.resources
+C:\Users\admin\OneDrive\Desktop\Nhóm 5\Source Code\ĐỒ ÁN\Chess Usercontrol\obj\Debug\Chess_Usercontrol.Properties.Resources.resources
+C:\Users\admin\OneDrive\Desktop\Nhóm 5\Source Code\ĐỒ ÁN\Chess Usercontrol\obj\Debug\Chess_Usercontrol.UcCapturedPieces.resources
+C:\Users\admin\OneDrive\Desktop\Nhóm 5\Source Code\ĐỒ ÁN\Chess Usercontrol\obj\Debug\Chess_Usercontrol.UcChessBoard.resources
+C:\Users\admin\OneDrive\Desktop\Nhóm 5\Source Code\ĐỒ ÁN\Chess Usercontrol\obj\Debug\Chess_Usercontrol.UcChessCell.resources
+C:\Users\admin\OneDrive\Desktop\Nhóm 5\Source Code\ĐỒ ÁN\Chess Usercontrol\obj\Debug\Chess_Usercontrol.UcChessPiece.resources
+C:\Users\admin\OneDrive\Desktop\Nhóm 5\Source Code\ĐỒ ÁN\Chess Usercontrol\obj\Debug\Chess_Usercontrol.UcMovesHistory.resources
+C:\Users\admin\OneDrive\Desktop\Nhóm 5\Source Code\ĐỒ ÁN\Chess Usercontrol\obj\Debug\DigitalClock.UcCountDownTimer.resources
+C:\Users\admin\OneDrive\Desktop\Nhóm 5\Source Code\ĐỒ ÁN\Chess Usercontrol\obj\Debug\Chess Library.csproj.GenerateResource.cache
+C:\Users\admin\OneDrive\Desktop\Nhóm 5\Source Code\ĐỒ ÁN\Chess Usercontrol\obj\Debug\Chess Library.csproj.CoreCompileInputs.cache
+C:\Users\admin\OneDrive\Desktop\Nhóm 5\Source Code\ĐỒ ÁN\Chess Usercontrol\obj\Debug\Chess Usercontrol.dll
+C:\Users\admin\OneDrive\Desktop\Nhóm 5\Source Code\ĐỒ ÁN\Chess Usercontrol\obj\Debug\Chess Usercontrol.pdb

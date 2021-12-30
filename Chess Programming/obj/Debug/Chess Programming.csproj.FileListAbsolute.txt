@@ -1,0 +1,120 @@
+C:\Users\admin\source\repos\[Sharecode.vn] Source code game co vua bang C# full code\[Sharecode.vn] Source code game co vua bang C# full code\Chess Programming\bin\Debug\Chess Programming.exe
+C:\Users\admin\source\repos\[Sharecode.vn] Source code game co vua bang C# full code\[Sharecode.vn] Source code game co vua bang C# full code\Chess Programming\bin\Debug\Chess Programming.pdb
+C:\Users\admin\source\repos\[Sharecode.vn] Source code game co vua bang C# full code\[Sharecode.vn] Source code game co vua bang C# full code\Chess Programming\bin\Debug\Chess Usercontrol.dll
+C:\Users\admin\source\repos\[Sharecode.vn] Source code game co vua bang C# full code\[Sharecode.vn] Source code game co vua bang C# full code\Chess Programming\bin\Debug\Chess Usercontrol.pdb
+C:\Users\admin\source\repos\[Sharecode.vn] Source code game co vua bang C# full code\[Sharecode.vn] Source code game co vua bang C# full code\Chess Programming\obj\Debug\Chess Programming.csproj.AssemblyReference.cache
+C:\Users\admin\source\repos\[Sharecode.vn] Source code game co vua bang C# full code\[Sharecode.vn] Source code game co vua bang C# full code\Chess Programming\obj\Debug\Chess_Programming.frmAbout.resources
+C:\Users\admin\source\repos\[Sharecode.vn] Source code game co vua bang C# full code\[Sharecode.vn] Source code game co vua bang C# full code\Chess Programming\obj\Debug\Chess_Programming.frmAnalysisBoard.resources
+C:\Users\admin\source\repos\[Sharecode.vn] Source code game co vua bang C# full code\[Sharecode.vn] Source code game co vua bang C# full code\Chess Programming\obj\Debug\Chess_Programming.frmFeedBack.resources
+C:\Users\admin\source\repos\[Sharecode.vn] Source code game co vua bang C# full code\[Sharecode.vn] Source code game co vua bang C# full code\Chess Programming\obj\Debug\Chess_Programming.frmFindGame.resources
+C:\Users\admin\source\repos\[Sharecode.vn] Source code game co vua bang C# full code\[Sharecode.vn] Source code game co vua bang C# full code\Chess Programming\obj\Debug\Chess_Programming.frmLanGame.resources
+C:\Users\admin\source\repos\[Sharecode.vn] Source code game co vua bang C# full code\[Sharecode.vn] Source code game co vua bang C# full code\Chess Programming\obj\Debug\Chess_Programming.frmMain.resources
+C:\Users\admin\source\repos\[Sharecode.vn] Source code game co vua bang C# full code\[Sharecode.vn] Source code game co vua bang C# full code\Chess Programming\obj\Debug\Chess_Programming.frmManageProfile.resources
+C:\Users\admin\source\repos\[Sharecode.vn] Source code game co vua bang C# full code\[Sharecode.vn] Source code game co vua bang C# full code\Chess Programming\obj\Debug\Chess_Programming.frmGameOptions.resources
+C:\Users\admin\source\repos\[Sharecode.vn] Source code game co vua bang C# full code\[Sharecode.vn] Source code game co vua bang C# full code\Chess Programming\obj\Debug\Chess_Programming.frmLoadGame.resources
+C:\Users\admin\source\repos\[Sharecode.vn] Source code game co vua bang C# full code\[Sharecode.vn] Source code game co vua bang C# full code\Chess Programming\obj\Debug\Chess_Programming.frmSelectGame.resources
+C:\Users\admin\source\repos\[Sharecode.vn] Source code game co vua bang C# full code\[Sharecode.vn] Source code game co vua bang C# full code\Chess Programming\obj\Debug\Chess_Programming.frmTraining.resources
+C:\Users\admin\source\repos\[Sharecode.vn] Source code game co vua bang C# full code\[Sharecode.vn] Source code game co vua bang C# full code\Chess Programming\obj\Debug\Chess_Programming.frmTrainingDatabase.resources
+C:\Users\admin\source\repos\[Sharecode.vn] Source code game co vua bang C# full code\[Sharecode.vn] Source code game co vua bang C# full code\Chess Programming\obj\Debug\Chess_Programming.frmTrainingOptions.resources
+C:\Users\admin\source\repos\[Sharecode.vn] Source code game co vua bang C# full code\[Sharecode.vn] Source code game co vua bang C# full code\Chess Programming\obj\Debug\Chess_Programming.frmTrainingResult.resources
+C:\Users\admin\source\repos\[Sharecode.vn] Source code game co vua bang C# full code\[Sharecode.vn] Source code game co vua bang C# full code\Chess Programming\obj\Debug\Chess_Programming.frmViewProfile.resources
+C:\Users\admin\source\repos\[Sharecode.vn] Source code game co vua bang C# full code\[Sharecode.vn] Source code game co vua bang C# full code\Chess Programming\obj\Debug\Chess_Programming.frmNewProfile.resources
+C:\Users\admin\source\repos\[Sharecode.vn] Source code game co vua bang C# full code\[Sharecode.vn] Source code game co vua bang C# full code\Chess Programming\obj\Debug\Chess_Programming.frmOptions.resources
+C:\Users\admin\source\repos\[Sharecode.vn] Source code game co vua bang C# full code\[Sharecode.vn] Source code game co vua bang C# full code\Chess Programming\obj\Debug\Chess_Programming.Properties.Resources.resources
+C:\Users\admin\source\repos\[Sharecode.vn] Source code game co vua bang C# full code\[Sharecode.vn] Source code game co vua bang C# full code\Chess Programming\obj\Debug\Chess_Programming.UcProfile.resources
+C:\Users\admin\source\repos\[Sharecode.vn] Source code game co vua bang C# full code\[Sharecode.vn] Source code game co vua bang C# full code\Chess Programming\obj\Debug\Chess Programming.csproj.GenerateResource.cache
+C:\Users\admin\source\repos\[Sharecode.vn] Source code game co vua bang C# full code\[Sharecode.vn] Source code game co vua bang C# full code\Chess Programming\obj\Debug\Chess Programming.csproj.CoreCompileInputs.cache
+C:\Users\admin\source\repos\[Sharecode.vn] Source code game co vua bang C# full code\[Sharecode.vn] Source code game co vua bang C# full code\Chess Programming\obj\Debug\Chess Programming.csproj.CopyComplete
+C:\Users\admin\source\repos\[Sharecode.vn] Source code game co vua bang C# full code\[Sharecode.vn] Source code game co vua bang C# full code\Chess Programming\obj\Debug\Chess Programming.exe
+C:\Users\admin\source\repos\[Sharecode.vn] Source code game co vua bang C# full code\[Sharecode.vn] Source code game co vua bang C# full code\Chess Programming\obj\Debug\Chess Programming.pdb
+C:\Users\admin\source\repos\[Sharecode.vn] Source code game co vua bang C# full code\[Sharecode.vn] Source code game co vua bang C# full code\Chess Programming\bin\Debug\Chess Programming.exe.config
+C:\Users\admin\source\repos\ĐỒ ÁN\Chess Programming\bin\Debug\Chess Programming.exe.config
+C:\Users\admin\source\repos\ĐỒ ÁN\Chess Programming\bin\Debug\Chess Programming.exe
+C:\Users\admin\source\repos\ĐỒ ÁN\Chess Programming\bin\Debug\Chess Programming.pdb
+C:\Users\admin\source\repos\ĐỒ ÁN\Chess Programming\bin\Debug\Chess Usercontrol.dll
+C:\Users\admin\source\repos\ĐỒ ÁN\Chess Programming\bin\Debug\Chess Usercontrol.pdb
+C:\Users\admin\source\repos\ĐỒ ÁN\Chess Programming\obj\Debug\Chess Programming.csproj.AssemblyReference.cache
+C:\Users\admin\source\repos\ĐỒ ÁN\Chess Programming\obj\Debug\Chess_Programming.frmAbout.resources
+C:\Users\admin\source\repos\ĐỒ ÁN\Chess Programming\obj\Debug\Chess_Programming.frmAnalysisBoard.resources
+C:\Users\admin\source\repos\ĐỒ ÁN\Chess Programming\obj\Debug\Chess_Programming.frmFeedBack.resources
+C:\Users\admin\source\repos\ĐỒ ÁN\Chess Programming\obj\Debug\Chess_Programming.frmFindGame.resources
+C:\Users\admin\source\repos\ĐỒ ÁN\Chess Programming\obj\Debug\Chess_Programming.frmLanGame.resources
+C:\Users\admin\source\repos\ĐỒ ÁN\Chess Programming\obj\Debug\Chess_Programming.frmMain.resources
+C:\Users\admin\source\repos\ĐỒ ÁN\Chess Programming\obj\Debug\Chess_Programming.frmManageProfile.resources
+C:\Users\admin\source\repos\ĐỒ ÁN\Chess Programming\obj\Debug\Chess_Programming.frmGameOptions.resources
+C:\Users\admin\source\repos\ĐỒ ÁN\Chess Programming\obj\Debug\Chess_Programming.frmLoadGame.resources
+C:\Users\admin\source\repos\ĐỒ ÁN\Chess Programming\obj\Debug\Chess_Programming.frmSelectGame.resources
+C:\Users\admin\source\repos\ĐỒ ÁN\Chess Programming\obj\Debug\Chess_Programming.frmTraining.resources
+C:\Users\admin\source\repos\ĐỒ ÁN\Chess Programming\obj\Debug\Chess_Programming.frmTrainingDatabase.resources
+C:\Users\admin\source\repos\ĐỒ ÁN\Chess Programming\obj\Debug\Chess_Programming.frmTrainingOptions.resources
+C:\Users\admin\source\repos\ĐỒ ÁN\Chess Programming\obj\Debug\Chess_Programming.frmTrainingResult.resources
+C:\Users\admin\source\repos\ĐỒ ÁN\Chess Programming\obj\Debug\Chess_Programming.frmViewProfile.resources
+C:\Users\admin\source\repos\ĐỒ ÁN\Chess Programming\obj\Debug\Chess_Programming.frmNewProfile.resources
+C:\Users\admin\source\repos\ĐỒ ÁN\Chess Programming\obj\Debug\Chess_Programming.frmOptions.resources
+C:\Users\admin\source\repos\ĐỒ ÁN\Chess Programming\obj\Debug\Chess_Programming.Properties.Resources.resources
+C:\Users\admin\source\repos\ĐỒ ÁN\Chess Programming\obj\Debug\Chess_Programming.UcProfile.resources
+C:\Users\admin\source\repos\ĐỒ ÁN\Chess Programming\obj\Debug\Chess Programming.csproj.GenerateResource.cache
+C:\Users\admin\source\repos\ĐỒ ÁN\Chess Programming\obj\Debug\Chess Programming.csproj.CoreCompileInputs.cache
+C:\Users\admin\source\repos\ĐỒ ÁN\Chess Programming\obj\Debug\Chess Programming.csproj.CopyComplete
+C:\Users\admin\source\repos\ĐỒ ÁN\Chess Programming\obj\Debug\Chess Programming.exe
+C:\Users\admin\source\repos\ĐỒ ÁN\Chess Programming\obj\Debug\Chess Programming.pdb
+C:\Users\admin\OneDrive\Desktop\ĐỒ ÁN\Chess Programming\bin\Debug\Chess Programming.exe.config
+C:\Users\admin\OneDrive\Desktop\ĐỒ ÁN\Chess Programming\bin\Debug\Chess Programming.exe
+C:\Users\admin\OneDrive\Desktop\ĐỒ ÁN\Chess Programming\bin\Debug\Chess Programming.pdb
+C:\Users\admin\OneDrive\Desktop\ĐỒ ÁN\Chess Programming\bin\Debug\Chess Usercontrol.dll
+C:\Users\admin\OneDrive\Desktop\ĐỒ ÁN\Chess Programming\bin\Debug\Chess Usercontrol.pdb
+C:\Users\admin\OneDrive\Desktop\ĐỒ ÁN\Chess Programming\obj\Debug\Chess Programming.csproj.AssemblyReference.cache
+C:\Users\admin\OneDrive\Desktop\ĐỒ ÁN\Chess Programming\obj\Debug\Chess_Programming.frmAbout.resources
+C:\Users\admin\OneDrive\Desktop\ĐỒ ÁN\Chess Programming\obj\Debug\Chess_Programming.frmAnalysisBoard.resources
+C:\Users\admin\OneDrive\Desktop\ĐỒ ÁN\Chess Programming\obj\Debug\Chess_Programming.frmFeedBack.resources
+C:\Users\admin\OneDrive\Desktop\ĐỒ ÁN\Chess Programming\obj\Debug\Chess_Programming.frmFindGame.resources
+C:\Users\admin\OneDrive\Desktop\ĐỒ ÁN\Chess Programming\obj\Debug\Chess_Programming.frmLanGame.resources
+C:\Users\admin\OneDrive\Desktop\ĐỒ ÁN\Chess Programming\obj\Debug\Chess_Programming.frmMain.resources
+C:\Users\admin\OneDrive\Desktop\ĐỒ ÁN\Chess Programming\obj\Debug\Chess_Programming.frmManageProfile.resources
+C:\Users\admin\OneDrive\Desktop\ĐỒ ÁN\Chess Programming\obj\Debug\Chess_Programming.frmGameOptions.resources
+C:\Users\admin\OneDrive\Desktop\ĐỒ ÁN\Chess Programming\obj\Debug\Chess_Programming.frmLoadGame.resources
+C:\Users\admin\OneDrive\Desktop\ĐỒ ÁN\Chess Programming\obj\Debug\Chess_Programming.frmSelectGame.resources
+C:\Users\admin\OneDrive\Desktop\ĐỒ ÁN\Chess Programming\obj\Debug\Chess_Programming.frmTraining.resources
+C:\Users\admin\OneDrive\Desktop\ĐỒ ÁN\Chess Programming\obj\Debug\Chess_Programming.frmTrainingDatabase.resources
+C:\Users\admin\OneDrive\Desktop\ĐỒ ÁN\Chess Programming\obj\Debug\Chess_Programming.frmTrainingOptions.resources
+C:\Users\admin\OneDrive\Desktop\ĐỒ ÁN\Chess Programming\obj\Debug\Chess_Programming.frmTrainingResult.resources
+C:\Users\admin\OneDrive\Desktop\ĐỒ ÁN\Chess Programming\obj\Debug\Chess_Programming.frmViewProfile.resources
+C:\Users\admin\OneDrive\Desktop\ĐỒ ÁN\Chess Programming\obj\Debug\Chess_Programming.frmNewProfile.resources
+C:\Users\admin\OneDrive\Desktop\ĐỒ ÁN\Chess Programming\obj\Debug\Chess_Programming.frmOptions.resources
+C:\Users\admin\OneDrive\Desktop\ĐỒ ÁN\Chess Programming\obj\Debug\Chess_Programming.Properties.Resources.resources
+C:\Users\admin\OneDrive\Desktop\ĐỒ ÁN\Chess Programming\obj\Debug\Chess_Programming.UcProfile.resources
+C:\Users\admin\OneDrive\Desktop\ĐỒ ÁN\Chess Programming\obj\Debug\Chess Programming.csproj.GenerateResource.cache
+C:\Users\admin\OneDrive\Desktop\ĐỒ ÁN\Chess Programming\obj\Debug\Chess Programming.csproj.CoreCompileInputs.cache
+C:\Users\admin\OneDrive\Desktop\ĐỒ ÁN\Chess Programming\obj\Debug\Chess Programming.csproj.CopyComplete
+C:\Users\admin\OneDrive\Desktop\ĐỒ ÁN\Chess Programming\obj\Debug\Chess Programming.exe
+C:\Users\admin\OneDrive\Desktop\ĐỒ ÁN\Chess Programming\obj\Debug\Chess Programming.pdb
+C:\Users\admin\OneDrive\Desktop\Nhóm 5\Source Code\ĐỒ ÁN\Chess Programming\bin\Debug\Chess Programming.exe.config
+C:\Users\admin\OneDrive\Desktop\Nhóm 5\Source Code\ĐỒ ÁN\Chess Programming\bin\Debug\Chess Programming.exe
+C:\Users\admin\OneDrive\Desktop\Nhóm 5\Source Code\ĐỒ ÁN\Chess Programming\bin\Debug\Chess Programming.pdb
+C:\Users\admin\OneDrive\Desktop\Nhóm 5\Source Code\ĐỒ ÁN\Chess Programming\bin\Debug\Chess Usercontrol.dll
+C:\Users\admin\OneDrive\Desktop\Nhóm 5\Source Code\ĐỒ ÁN\Chess Programming\bin\Debug\Chess Usercontrol.pdb
+C:\Users\admin\OneDrive\Desktop\Nhóm 5\Source Code\ĐỒ ÁN\Chess Programming\obj\Debug\Chess Programming.csproj.AssemblyReference.cache
+C:\Users\admin\OneDrive\Desktop\Nhóm 5\Source Code\ĐỒ ÁN\Chess Programming\obj\Debug\Chess_Programming.frmAbout.resources
+C:\Users\admin\OneDrive\Desktop\Nhóm 5\Source Code\ĐỒ ÁN\Chess Programming\obj\Debug\Chess_Programming.frmAnalysisBoard.resources
+C:\Users\admin\OneDrive\Desktop\Nhóm 5\Source Code\ĐỒ ÁN\Chess Programming\obj\Debug\Chess_Programming.frmFeedBack.resources
+C:\Users\admin\OneDrive\Desktop\Nhóm 5\Source Code\ĐỒ ÁN\Chess Programming\obj\Debug\Chess_Programming.frmFindGame.resources
+C:\Users\admin\OneDrive\Desktop\Nhóm 5\Source Code\ĐỒ ÁN\Chess Programming\obj\Debug\Chess_Programming.frmLanGame.resources
+C:\Users\admin\OneDrive\Desktop\Nhóm 5\Source Code\ĐỒ ÁN\Chess Programming\obj\Debug\Chess_Programming.frmMain.resources
+C:\Users\admin\OneDrive\Desktop\Nhóm 5\Source Code\ĐỒ ÁN\Chess Programming\obj\Debug\Chess_Programming.frmManageProfile.resources
+C:\Users\admin\OneDrive\Desktop\Nhóm 5\Source Code\ĐỒ ÁN\Chess Programming\obj\Debug\Chess_Programming.frmGameOptions.resources
+C:\Users\admin\OneDrive\Desktop\Nhóm 5\Source Code\ĐỒ ÁN\Chess Programming\obj\Debug\Chess_Programming.frmLoadGame.resources
+C:\Users\admin\OneDrive\Desktop\Nhóm 5\Source Code\ĐỒ ÁN\Chess Programming\obj\Debug\Chess_Programming.frmSelectGame.resources
+C:\Users\admin\OneDrive\Desktop\Nhóm 5\Source Code\ĐỒ ÁN\Chess Programming\obj\Debug\Chess_Programming.frmTraining.resources
+C:\Users\admin\OneDrive\Desktop\Nhóm 5\Source Code\ĐỒ ÁN\Chess Programming\obj\Debug\Chess_Programming.frmTrainingDatabase.resources
+C:\Users\admin\OneDrive\Desktop\Nhóm 5\Source Code\ĐỒ ÁN\Chess Programming\obj\Debug\Chess_Programming.frmTrainingOptions.resources
+C:\Users\admin\OneDrive\Desktop\Nhóm 5\Source Code\ĐỒ ÁN\Chess Programming\obj\Debug\Chess_Programming.frmTrainingResult.resources
+C:\Users\admin\OneDrive\Desktop\Nhóm 5\Source Code\ĐỒ ÁN\Chess Programming\obj\Debug\Chess_Programming.frmViewProfile.resources
+C:\Users\admin\OneDrive\Desktop\Nhóm 5\Source Code\ĐỒ ÁN\Chess Programming\obj\Debug\Chess_Programming.frmNewProfile.resources
+C:\Users\admin\OneDrive\Desktop\Nhóm 5\Source Code\ĐỒ ÁN\Chess Programming\obj\Debug\Chess_Programming.frmOptions.resources
+C:\Users\admin\OneDrive\Desktop\Nhóm 5\Source Code\ĐỒ ÁN\Chess Programming\obj\Debug\Chess_Programming.Properties.Resources.resources
+C:\Users\admin\OneDrive\Desktop\Nhóm 5\Source Code\ĐỒ ÁN\Chess Programming\obj\Debug\Chess_Programming.UcProfile.resources
+C:\Users\admin\OneDrive\Desktop\Nhóm 5\Source Code\ĐỒ ÁN\Chess Programming\obj\Debug\Chess Programming.csproj.GenerateResource.cache
+C:\Users\admin\OneDrive\Desktop\Nhóm 5\Source Code\ĐỒ ÁN\Chess Programming\obj\Debug\Chess Programming.csproj.CoreCompileInputs.cache
+C:\Users\admin\OneDrive\Desktop\Nhóm 5\Source Code\ĐỒ ÁN\Chess Programming\obj\Debug\Chess Programming.csproj.CopyComplete
+C:\Users\admin\OneDrive\Desktop\Nhóm 5\Source Code\ĐỒ ÁN\Chess Programming\obj\Debug\Chess Programming.exe
+C:\Users\admin\OneDrive\Desktop\Nhóm 5\Source Code\ĐỒ ÁN\Chess Programming\obj\Debug\Chess Programming.pdb
